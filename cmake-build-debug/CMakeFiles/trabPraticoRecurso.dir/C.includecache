@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tiagoviana/Desktop/trabPraticoRecurso/gestao_atas.c
+gestao_atas.h
+/Users/tiagoviana/Desktop/trabPraticoRecurso/gestao_atas.h
+
+/Users/tiagoviana/Desktop/trabPraticoRecurso/gestao_atas.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stack.h
+/Users/tiagoviana/Desktop/trabPraticoRecurso/stack.h
+loginsGestaoUsers.h
+/Users/tiagoviana/Desktop/trabPraticoRecurso/loginsGestaoUsers.h
+
+/Users/tiagoviana/Desktop/trabPraticoRecurso/loginsGestaoUsers.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/Users/tiagoviana/Desktop/trabPraticoRecurso/stack.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+gestao_atas.h
+/Users/tiagoviana/Desktop/trabPraticoRecurso/gestao_atas.h
+
